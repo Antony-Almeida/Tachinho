@@ -55,6 +55,9 @@
 
 .imagem{
     text-align: center;
+    width: 100%; 
+    height: auto;
+    display: block;
 }
 
 .corpo{
