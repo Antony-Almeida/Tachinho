@@ -1,0 +1,71 @@
+.geral{
+    align-items: center;
+    max-width: 800px;
+    background-image: url(Tachinho\ \(3\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo {
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+}
+
+.paragrafo{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+}
+
+.subtitulo{
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+}
+
+.topico{
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+
+.listas{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.legenda{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: auto;
+    font-size: 15px;
+    text-align: center;
+}
+
+.imagem{
+    text-align: center;
+}
+
+.corpo{
+    background-color: #f2f5f7;
+    padding: 10px 50px 10px 50px;
+}
+
+.rodape{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFFFFF;
+    text-align: center;
+}
