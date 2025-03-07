@@ -1,13 +1,15 @@
-.geral{
-    align-items: center;
-    max-width: 800px;
+body{
     background-image: url(Tachinho\ \(3\).jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+main{
+    align-items: center;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    width: 50%;
     overflow-x: hidden;
 }
 
@@ -16,6 +18,7 @@
     font-weight: 900;
     font-style: normal;
     text-align: center;
+    margin: 40px auto 0 auto;
 }
 
 .paragrafo{
@@ -23,6 +26,8 @@
     font-weight: 400;
     font-style: normal;
     text-align: justify;
+    width: 95%;
+    margin: 30px 15px;
 }
 
 .subtitulo{
@@ -57,10 +62,7 @@
 
 .imagem{
     text-align: center;
-    max-width: 100%; 
-    height: auto;
-    display: block;
-    overflow-x: hidden;
+    max-width: 100em; 
 }
 
 .corpo{
@@ -71,7 +73,10 @@
 .rodape{
     font-family: "Poppins", serif;
     font-weight: 400;
-    font-style: normal;
+    font-size: 14px;
     color: #FFFFFF;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
+
